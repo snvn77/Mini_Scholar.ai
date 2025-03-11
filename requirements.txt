@@ -1,0 +1,21 @@
+# Web Scraping
+beautifulsoup4
+requests
+lxml
+
+# PDF Processing
+pypdf2
+tqdm
+
+# Embeddings & Vector Search
+chromadb
+sentence-transformers
+
+# Machine Learning & LLMs
+openai
+langchain
+numpy
+pandas
+
+# Web App (Streamlit)
+streamlit
